@@ -1,7 +1,7 @@
 # Output 
 
 Output on this link: https://github.com/user-attachments/assets/ee6b0ed4-4b26-49fd-83e4-b52ed4201267
-
+(This is a screenshot of a Output)
 
 # React + Vite
 
